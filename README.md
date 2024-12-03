@@ -32,3 +32,7 @@ Exercise ini bertujuan untuk:
 2. Konflik dapat dihindari, dan sistem berfungsi dengan lebih stabil dan terprediksi.
 
 ## Hasil Percobaan
+
+
+https://github.com/user-attachments/assets/9e9000de-e68e-497f-ae2f-ab8044b2e2f1
+
